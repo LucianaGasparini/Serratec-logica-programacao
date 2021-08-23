@@ -1,0 +1,18 @@
+//O sistema irá solicitar a digitação da sigla da "UF" de onde você mora. E o programa irá dizer o nome completo do estado. Para as UFs do sudeste, considerar a entrada em maiúsculas ou minúsculas.//
+
+// prompt
+//var prompt = require("prompt-sync")()    npm install prompt-sync
+var prompt = require("prompt-sync")()
+
+
+
+switch (uf) {
+    case "RJ", "rj": 
+    resposta = "Rio de Janeiro"
+    console.log("Você mora no ", resposta);
+    break;
+}
+    // git clone
+    // git status
+    // git add
+    // git push

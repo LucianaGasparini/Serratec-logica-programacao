@@ -1,0 +1,30 @@
+ir ao mercado
+escolher os ingredientes
+pegar os ingredientes nas prateleiras
+pegar o pão integral colocar no carrinho
+pegar o alface colocar no carrinho
+pegar o tomate colocar no carrinho
+pegar o queijo mussarela colocar no carrinho
+pegar o peito de peru colocar no carrinho
+pegar a maionese colocar no carrinho
+passar os ingredientes no caixa
+pagar os valores devidos
+colocar os ingredientes na sacola
+ir para casa
+na cozinha abrir a sacola
+colocar os ingredientes na mesa
+abrir o pacote de pão integral
+retirar duas fatias de pão integral
+abrir o pote de mainese
+passar maionese nas duas fatias de pão
+lavar o alface e o tomate
+colocar duas folhas de alface numa das fatias de pão
+colocar três rodelas de tomate sobre o alface
+abrir a embalagem de queijo mussarela
+colocar duas fatias de queijo mussarela sobre o tomate
+abrir a embalagem de peito de peru 
+colocar duas fatias de peito de peru sobre o queijo mussarela
+colocar a outra fatia do pão com mainese sobre o queijo mussarela
+está pronto o sanduiche
+
+
