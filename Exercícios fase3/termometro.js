@@ -7,3 +7,4 @@ var fahreheit = 0
 
 fahreheit = (160 + 9 * celsius)/ 5
 console.log ("temperatura em escala Fahrenheit é ", fahreheit,"º")
+
