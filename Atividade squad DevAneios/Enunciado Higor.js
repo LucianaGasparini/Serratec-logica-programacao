@@ -24,7 +24,7 @@ Farinha
 
 var prompt = require("prompt-sync")();
 var amido = prompt("Quantos pacotes de Amido deverão ser comprados? ");
-var atual = prompt("Que dia é hoje? ")
+var atual = prompt("Que dia é hoje? ");
 var dia = prompt("Qual a data de compra? ");
 
 
@@ -39,15 +39,15 @@ if (amido == 7) {
 }
 
 if (amido >= 10){
-    var dias = dia - atual
-    var estoqueamido = amido - dias
+    var dias = dia - atual;
+    var estoqueamido = amido - dias;
     console.log ("No" , dia  ," teremos ", estoqueamido,  " pacotes de amido");
 }
 
 
 //produto 2
 var farinha = prompt("Quantos pacotes de farinha deverão ser comprados? ");
-var atual = prompt("Que dia é hoje? ")
+var atual = prompt("Que dia é hoje? ");
 var diaFarinha = prompt("Qual a data de compra? ");
 if (farinha < 7){
     
@@ -60,8 +60,8 @@ if (farinha < 7){
     }
 
 if (farinha >= 10){
-    var dias1 = diaFarinha - atual
-    var estoqueFarinha = farinha - dias1
+    var dias1 = diaFarinha - atual;
+    var estoqueFarinha = farinha - dias1;
  
     console.log ("No" , diaFarinha ," teremos ", estoqueFarinha,  " pacotes de farinha.");
     
